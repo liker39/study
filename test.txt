@@ -1,3 +1,6 @@
 hello git!
 Edit test!
 How are you?
+a
+b
+c
